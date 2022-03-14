@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 import subprocess
 
-steam_path = r''
+steam_path = r'C:\Users\<USER>\AppData\Roaming\EldenRing'
 save_folder = r''
 game_id = 1245620
 

@@ -1,3 +1,3 @@
 @echo off
-py .\\elden_ring_script.py %*
+py C:\\Users\\USER\\elden-ring-backup\\elden_ring_script.py %*
 pause
